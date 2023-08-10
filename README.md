@@ -7,7 +7,6 @@ The engine leverages the EntityX Entity Component System (ECS) and the TileD lev
 
 https://github.com/pattontj/dagashi/assets/60120527/734d8a74-9724-4883-b26f-56295c37eebc
 
-https://github.com/pattontj/dagashi/assets/60120527/58cba96f-1de4-45ce-b058-48e48ff03419
 
 
 
