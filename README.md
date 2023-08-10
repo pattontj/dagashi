@@ -4,7 +4,7 @@
 Dagashi (Japanese for candy) is a hobbyist custom 2D game engine built in C++, and originally made custom for a previous game project.
 The engine leverages the EntityX Entity Component System (ECS) and the TileD level editor to simplify content creation and allow for faster testing and iteration. Dagashi was originally written between 2018-2019 and hosted on a previous (and now privated) github repository; all code, assets, and documentation initally commited in this repository was produced during this time period.
 
-![](https://imgur.com/aO8Ztjg.mp4)
+![Imgur](https://imgur.com/aO8Ztjg.mp4)
 ![](https://imgur.com/1aw5EQo)
 
 ## Engine features
