@@ -1,0 +1,1 @@
+bash ./win-build.sh

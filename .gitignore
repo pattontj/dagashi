@@ -1,0 +1,52 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Emacs buffers
+*.cpp~
+*.hpp~
+*.#.cpp
+*.#.hpp
+
+*.gitignore~
+*makefile~
+
+#don't push contents of build or SFML, it's all junk
+build/*
+lib/*
+include/*
+#but keep the directories
+!build/.gitkeep
+!lib/.gitkeep
+!include/.gitkeep
+.vscode/settings.json
+

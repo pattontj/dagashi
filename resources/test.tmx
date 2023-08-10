@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="119">
+ <tileset firstgid="1" name="zelda" tilewidth="16" tileheight="16" tilecount="480" columns="30">
+  <image source="zelda.png" width="480" height="256"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJyN0jtOQkEUxvGZFZiIia0ruChhG6DS8JBtoEBu0JLGilcDdIZGCgXcgAtQZAG6B2qJ/xuG3ONhBItf5nHuN2cmuYE15gSBkEcBRZRwJWplN24yn+a3L1TYv8YNqqjZuNZgfos7u15/Kyu0qLXRQRc9G9f7zAcY2vW3GbvtCc+YYIqZqL2ocanOiN70hnfM8YGFp4eWFPM0jtFUa9lj11mXyLn8gVjv6q3PbDojR2c23+v3Rw6RUI48d4+yoco/4BRnSspzj9DEAk++zn7NxPm/sqG4x3/6+7LyHVmcKxd78vJur05GjPof0fl9/4SvrvvK7wLRMyn27vHojPEDTF5nmA==
+  </data>
+ </layer>
+ <objectgroup color="#800000" id="2" name="Collision Layer">
+  <object id="26" type="collider" x="0" y="32" width="16" height="16"/>
+  <object id="28" type="collider" x="16" y="32" width="16" height="16"/>
+  <object id="29" type="collider" x="32" y="32" width="16" height="16"/>
+  <object id="30" type="collider" x="48" y="32" width="16" height="16"/>
+  <object id="31" type="collider" x="64" y="32" width="16" height="16"/>
+  <object id="34" type="collider" x="80" y="32" width="16" height="16"/>
+  <object id="39" type="collider" x="160" y="32" width="16" height="16"/>
+  <object id="42" type="collider" x="112" y="160" width="16" height="16"/>
+  <object id="43" type="collider" x="128" y="160" width="16" height="16"/>
+  <object id="44" type="collider" x="144" y="64" width="16" height="16"/>
+  <object id="45" type="collider" x="80" y="64" width="16" height="15"/>
+  <object id="46" type="collider" x="176" y="32" width="16" height="16"/>
+  <object id="47" type="collider" x="192" y="32" width="16" height="16"/>
+  <object id="48" type="collider" x="224" y="32" width="16" height="16"/>
+  <object id="49" type="collider" x="240" y="32" width="16" height="16"/>
+  <object id="50" type="collider" x="208" y="16" width="16" height="16"/>
+  <object id="51" type="collider" x="144" y="48" width="16" height="16"/>
+  <object id="52" type="collider" x="144" y="48" width="16" height="16"/>
+  <object id="53" type="collider" x="80" y="48" width="16" height="16"/>
+  <object id="54" type="collider" x="128" y="48" width="16" height="16"/>
+  <object id="55" type="collider" x="96" y="48" width="16" height="16"/>
+  <object id="56" type="collider" x="112" y="32" width="16" height="15"/>
+  <object id="60" type="collider" x="240" y="48" width="16" height="16"/>
+  <object id="61" type="collider" x="240" y="80" width="16" height="16"/>
+  <object id="62" type="collider" x="240" y="112" width="16" height="16"/>
+  <object id="63" type="collider" x="240" y="96" width="16" height="16"/>
+  <object id="64" type="collider" x="240" y="64" width="16" height="16"/>
+  <object id="65" type="collider" x="240" y="208" width="16" height="16"/>
+  <object id="66" type="collider" x="240" y="192" width="16" height="16"/>
+  <object id="67" type="collider" x="240" y="176" width="16" height="16"/>
+  <object id="68" type="collider" x="240" y="144" width="16" height="16"/>
+  <object id="69" type="collider" x="240" y="160" width="16" height="16"/>
+  <object id="70" type="collider" x="240" y="128" width="16" height="16"/>
+  <object id="71" type="collider" x="240" y="240" width="16" height="16"/>
+  <object id="72" type="collider" x="240" y="224" width="16" height="16"/>
+  <object id="73" type="collider" x="0" y="240" width="16" height="16"/>
+  <object id="74" type="collider" x="0" y="224" width="16" height="16"/>
+  <object id="75" type="collider" x="0" y="208" width="16" height="16"/>
+  <object id="76" type="collider" x="0" y="192" width="16" height="16"/>
+  <object id="77" type="collider" x="0" y="176" width="16" height="16"/>
+  <object id="78" type="collider" x="0" y="160" width="16" height="16"/>
+  <object id="79" type="collider" x="0" y="144" width="16" height="16"/>
+  <object id="80" type="collider" x="0" y="128" width="16" height="16"/>
+  <object id="81" type="collider" x="0" y="112" width="16" height="16"/>
+  <object id="82" type="collider" x="0" y="96" width="16" height="16"/>
+  <object id="83" type="collider" x="0" y="80" width="16" height="16"/>
+  <object id="84" type="collider" x="0" y="64" width="16" height="16"/>
+  <object id="85" type="collider" x="0" y="48" width="16" height="16"/>
+  <object id="99" type="collider" x="16" y="240" width="16" height="16"/>
+  <object id="100" type="collider" x="32" y="240" width="16" height="16"/>
+  <object id="101" type="collider" x="48" y="240" width="16" height="16"/>
+  <object id="102" type="collider" x="64" y="240" width="16" height="16"/>
+  <object id="103" type="collider" x="80" y="240" width="16" height="16"/>
+  <object id="104" type="collider" x="96" y="240" width="16" height="16"/>
+  <object id="111" type="collider" x="112" y="240" width="16" height="16"/>
+  <object id="112" type="collider" x="128" y="240" width="16" height="16"/>
+  <object id="113" type="collider" x="144" y="240" width="16" height="16"/>
+  <object id="114" type="collider" x="160" y="240" width="16" height="16"/>
+  <object id="115" type="collider" x="176" y="240" width="16" height="16"/>
+  <object id="116" type="collider" x="192" y="240" width="16" height="16"/>
+  <object id="117" type="collider" x="208" y="240" width="16" height="16"/>
+  <object id="118" type="collider" x="224" y="240" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup color="#0055ff" id="4" name="Entity Layer">
+  <object id="58" name="Player" x="194.333" y="213.333" width="16" height="16"/>
+ </objectgroup>
+</map>
