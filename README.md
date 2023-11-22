@@ -15,7 +15,7 @@ https://github.com/pattontj/dagashi/assets/60120527/734d8a74-9724-4883-b26f-5629
 - [x] TMX map integration 
   - [x] Tile layers
   - [x] Object layers
-  - [ ] TMX image layers (Dunno if I actually need it? Maybe for the roof effect thing)
+  - [ ] Individual TMX image layers
   - [ ] Multiple textures 
 - [x] Chunk-based map rendering
 - [x] Camera that follows the player
@@ -35,7 +35,7 @@ https://github.com/pattontj/dagashi/assets/60120527/734d8a74-9724-4883-b26f-5629
 
 - [ ] Seperate update logic from the rendering code (run physics consistently so vsync can do it's thing)
 
-- [ ] Object interaction (basically boxes/picking things up)
-- [ ] Serialization (of what?)
+- [ ] Generic object interaction via taggable component 
+- [ ] Serialization
 
 
